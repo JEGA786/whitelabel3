@@ -26,7 +26,7 @@ export function Header() {
             />
           </Link>
           <Link
-            className="navbar-toggler border-white  mx-3 mt-1  "
+            className="navbar-toggler border-white  mx-1 mt-3  "
             data-bs-toggle="offcanvas"
             data-bs-target="#offcanvasExample"
             aria-controls="offc6anvasExample"

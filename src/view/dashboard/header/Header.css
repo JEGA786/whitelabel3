@@ -17,13 +17,13 @@
   }
 
   .navbar-toggler {
-    cursor: pointer;
-   
+    cursor: pointer ;
+   border: none !important;
   }
 
-  .navbar-toggler:hover {
-    transform: scale(1.1);
-    transition: 0.5s;
+  .navbar-toggler:focus {
+    outline: none !important;
+    box-shadow: none !important;
   }
 
   .dropdown li a {

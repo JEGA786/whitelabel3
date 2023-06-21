@@ -21,7 +21,7 @@ export function Dashboard() {
             data-aos="zoom-in"
             data-aos-duration="2500"
           >
-            <div className="carousel-indicators">
+            <div className="carousel-indicators m-lg-4 m-md-4   m-0">
               <button
                 type="button"
                 data-bs-target="#carouselExampleCaptions"

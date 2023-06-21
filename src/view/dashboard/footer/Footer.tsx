@@ -46,7 +46,7 @@ export function Footer() {
             alt=""
           />
         </div>
-        <div className="col-lg-3 col-md-3 col-4 mx-lg-0 mx-md-0 mx-1  d-flex justify-content-start align-items-lg-start align-items-md-start align-items-center">
+        <div className="col-lg-3 col-md-3 col-6 d-flex justify-content-start align-items-lg-start align-items-md-start align-items-center">
           <Option
             h5={`General`}
             a1to={"/"}
