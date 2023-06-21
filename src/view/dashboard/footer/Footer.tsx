@@ -71,7 +71,7 @@ export function Footer() {
             // a10name={"DBO Leads"}
           />
         </div>
-        <div className="col-lg-3 col-md-3 col-4 mt-5 mt-lg-0 mt-md-0 d-flex justify-content-start align-items-lg-start align-items-md-start align-items-centerr">
+        <div className=" Servicestext col-lg-3 col-md-3 col-4 mt-5 mt-lg-0 mt-md-0 d-flex  justify-content-start align-items-lg-start align-items-md-start align-items-centerr">
           <Option
             h5={`Services`}
             a1to={"/"}
@@ -96,7 +96,7 @@ export function Footer() {
             icon={"fa-solid fa-building"}
             p={`Office Address -- 2-174 Canara Bank Street, Yadiki village and mandal Anantapur Dist Andhra Pradesh 515408`}
           />
-          <Icon icon={"fa fa-phone"} p={`9010767138`} />
+          <Icon icon={"fa-solid fa-phone-volume"} p={`9010767138`} />
 
           <div className="d-flex social">
             <Icon icon={"fa-brands fa-facebook"} />
