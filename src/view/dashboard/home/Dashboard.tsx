@@ -218,7 +218,7 @@ export function Dashboard() {
                 h5={`Amit Kumar Srivastava`}
                 p={`Spice Money has helped me establish and expand my business. I
             have been using Spice Money services like AePS, Bill Payment,
-            Pan Card, etc., for the past 3 years. My customers and I are
+            Pan Card, etc, for the past 3 years. My customers and I are
             highly satisfied with the services provided by Spice Money. It
             is the best fintech company, in my opinion.`}
               />
