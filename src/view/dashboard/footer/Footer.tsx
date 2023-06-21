@@ -94,7 +94,7 @@ export function Footer() {
           <Option h5={`Corporate Office:`} />
           <Icon
             icon={"fa-solid fa-building"}
-            p={`Office Address-- 2-174 Canara Bank Street, Yadiki village and mandal Anantapur Dist Andhra Pradesh 515408`}
+            p={`Office Address -- 2-174 Canara Bank Street, Yadiki village and mandal Anantapur Dist Andhra Pradesh 515408`}
           />
           <Icon icon={"fa fa-phone"} p={`9010767138`} />
 
